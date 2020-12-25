@@ -3,4 +3,4 @@
 ### Выполнил студент группы 4917 Тюпышев Данил
 
 Была сделана копия https://github.com/Kurtyanik/LR6/
-![](Screensgots/1.png)
+![](Screenshots/1.png)
